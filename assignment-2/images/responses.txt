@@ -1,0 +1,7 @@
+* Data travels across the internet in packets. Each packet carrys pieces information that makes up a whole or part of a whole, such as an image or document. So when a message or email is sent the information is broken up into many different packets get sent out and they may take different routes but eventually all end up at the same place and come together to make that message or email.
+* A DNS or Domain Name Service is a system or mechanism that is used to translate IP addresses into domains. So if you wanted to go to a website you would type the name in and hit enter, your computer then sends that url to the dns and the dns sends back the IP address of the website to you.
+* A cookie is a small piece of data sent from a website and stored on the user's computer from the web browser. It is a personal code stored in your web browser so it can remeber you. Example is a login page, it can remember you and some sites will even say "Welcome Back, Jack!".
+* Three parts to url
+  1. Protocol: HTTP or HTTPS which is the "security" and shown as a lock in the address bar.
+  2. Domain: The host name identifies and holds the information such as www.example.com
+  3. Path: The path identifies the specific resource in the host that the web client wants to access. For example, /intro-web-dev/docs/topic-02/web-addresses/
