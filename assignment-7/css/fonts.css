@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Roboto');
+
+@font-face{
+  font-family: 'Righteous', cursive;
+  src: url('./fonts/Righteous-Regular.ttf') format('trutype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+h1{
+  text-align: center;
+  color:white;
+  font-family:'Righteous', cursive;
+  font-size: 40pt;
+  font-style: normal;
+  font-weight: 600;
+
+}
+
+h2{
+  text-align: center;
+  color:white;
+  font-family:'Righteous', cursive;
+  font-size:30pt;
+  font-style:normal;
+  font-weight:normal;
+
+}
+
+
+@font-face{
+  font-family:'Roboto', sans-serif;
+  src: url('./fonts/Roboto-Regular/.ttf') format('trutype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+p{text-align: center;
+  color:black;
+  font-family:'Roboto', sans-serif;
+  font-size:15pt;
+  font-style:normal;
+  font-weight:300;
+  letter-spacing:1px;
+
+}
