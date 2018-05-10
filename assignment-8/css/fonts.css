@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Roboto');
+
+@font-face{
+  font-family: 'Komika Title' ;
+  src: url('./fonts/KOMTIT__.ttf') format('trutype');
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face {
+  font-family: 'Bosk Test';
+  src: url('./fonts/Bosk') format('trutype');
+  font-weight: normal;
+  font-style: normal;
+}
+@@font-face {
+  font-family: 'Comfortaa';
+  src: url('./fonts/Comfortaa-Regular') format('trutype');
+}
+@font-face{
+  font-family: 'Comfortaa Bold';
+  src: url('./fonts/Comfortaa-Bold') format('trutype');
+}
+@font-face{
+  font-family: 'Comfortaa Light';
+  src: url('./fonts/Comfortaa-Light') format('trutype');
+}
+@font-face{
+  font-family: 'Linux Libertine';
+  src: url('./fonts/LinLibertine_R') format('trutype');
+}
